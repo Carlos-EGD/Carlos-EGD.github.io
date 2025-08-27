@@ -1,7 +1,6 @@
-title: "Carlos García"
-# author: "Carlos García"
+title: Carlos García
+# author: Carlos García
 # logo: 
 description: Bookmark this to keep an eye on my project updates!
 show_downloads: false # adds a button that lets you download the repositoy 
 theme: jekyll-theme-minimal
-plugins: []
