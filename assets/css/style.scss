@@ -1,6 +1,6 @@
 ---
 ---
-@import "{{ site.theme }}";  // keep Minimal's styles
+@import "{{ site.theme }}";  /* Keep the Minimal theme base styles */
 
 .site-nav-tabs {
   display: flex;
@@ -16,10 +16,8 @@
 }
 .site-nav-tabs a.active {
   font-weight: 600;
-  border-bottom-color: currentColor; /* “selected tab” look */
+  border-bottom-color: currentColor; /* selected tab underline */
 }
-
-/* small screens: allow horizontal scroll if needed */
 @media (max-width: 640px) {
   .site-nav-tabs { overflow-x: auto; white-space: nowrap; }
 }
