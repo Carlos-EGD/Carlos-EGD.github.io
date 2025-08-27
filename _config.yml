@@ -4,3 +4,14 @@ author: "Carlos García"
 description: Bookmark this to keep an eye on my project updates!
 show_downloads: false # adds a button that lets you download the repositoy 
 theme: jekyll-theme-minimal
+
+# Layout
+
+show_social: true
+show_ecerpts: false
+show_frame: true
+shwo_sidebar: false
+
+# Menu
+
+navigation:
