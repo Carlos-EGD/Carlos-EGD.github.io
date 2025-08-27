@@ -1,10 +1,11 @@
 ---
 ---
-@import "{{ site.theme }}";  /* keeps jekyll-theme-minimal styles */
+@import "{{ site.theme }}";  // keep Minimal's styles
 
 .site-nav-tabs {
   display: flex;
   gap: .75rem;
+  flex-wrap: wrap;
   border-bottom: 1px solid #eaecef;
   margin-bottom: 1rem;
 }
@@ -16,4 +17,9 @@
 .site-nav-tabs a.active {
   font-weight: 600;
   border-bottom-color: currentColor; /* “selected tab” look */
+}
+
+/* small screens: allow horizontal scroll if needed */
+@media (max-width: 640px) {
+  .site-nav-tabs { overflow-x: auto; white-space: nowrap; }
 }
