@@ -7,9 +7,7 @@
   gap: .75rem;
   border-bottom: 1px solid #eaecef;
   margin-bottom: 1rem;
-
-  /* keep all tabs on one line */
-  flex-wrap: nowrap;
+  flex-wrap: nowrap;          /* keep all tabs on one line */
   white-space: nowrap;
   overflow-x: auto;           /* scroll horizontally if they don't fit */
   -webkit-overflow-scrolling: touch;
@@ -24,6 +22,18 @@
   font-weight: 600;
   border-bottom-color: currentColor; /* selected tab underline */
 }
+/* PAGE LAYOUT FOR DESKTOP */
+@media (min-width: 900px) {
+  .wrapper {
+    max-width: 1120px;                            /* wider page */
+    display: grid;                                /* switch to grid */
+    grid-template-columns: 240px minmax(0, 1fr);  /* LEFT sidebar | RIGHT content */
+    column-gap: 2rem;                             /* space between columns */
+  }
+  .sidebar { float: none; width: auto; }          /* neutralize the theme’s float-based layout */
+  .main, .content, .post { margin: 0; max-width: none; }
+}
+/* PAGE LAYOUT FOR SMALLER SCREENS */
 @media (max-width: 640px) {
   .site-nav-tabs { overflow-x: auto; white-space: nowrap; }
 }
