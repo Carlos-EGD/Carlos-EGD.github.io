@@ -1,10 +1,10 @@
 - title: Home
   url: /
-- title: About
-  url: /about/
 - title: Education
   url: /education/
 - title: Projects
   url: /projects/
 - title: Technical Skills
   url: /technical_skills/
+- title: About
+  url: /about/
