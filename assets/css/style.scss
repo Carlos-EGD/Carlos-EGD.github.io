@@ -5,12 +5,18 @@
 .site-nav-tabs {
   display: flex;
   gap: .75rem;
-  flex-wrap: wrap;
   border-bottom: 1px solid #eaecef;
   margin-bottom: 1rem;
+
+  /* keep all tabs on one line */
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  overflow-x: auto;           /* scroll horizontally if they don't fit */
+  -webkit-overflow-scrolling: touch;
 }
 .site-nav-tabs a {
-  padding: .4rem .8rem;
+  display: inline-block;      /* works well with white-space */
+  padding: .4rem .8rem;       /* slightly slimmer tabs */
   text-decoration: none;
   border-bottom: 2px solid transparent;
 }
