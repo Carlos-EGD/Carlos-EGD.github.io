@@ -9,8 +9,8 @@
   margin-bottom: 1rem;
   flex-wrap: nowrap;          /* keep all tabs on one line */
   white-space: nowrap;
-  overflow-x: auto;           /* scroll horizontally if they don't fit */
-  -webkit-overflow-scrolling: touch;
+  /*overflow-x: auto;           /* scroll horizontally if they don't fit */
+  /*-webkit-overflow-scrolling: touch;*/
 }
 .site-nav-tabs a {
   display: inline-block;      /* works well with white-space */
