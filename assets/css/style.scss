@@ -27,7 +27,7 @@
   .wrapper {
     width: 100%;                                  /* override theme's fixed width (critical) */
     max-width: 1360px;                            /* wider page */
-    margin: 0 auto;                               /* keep centered */
+                                   /* margin: 0 auto; keep centered */
     display: grid;                                /* switch to grid */
     grid-template-columns: 240px minmax(0, 1fr);  /* LEFT sidebar header | RIGHT content */
     column-gap: 2rem;                             /* space between columns */
