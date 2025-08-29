@@ -25,7 +25,7 @@
 /* PAGE LAYOUT FOR DESKTOP */
 @media (min-width: 900px) {
   .wrapper {
-    width: 100%;                                  /* override theme's fixed width (critical) */
+    width: 100% !important;                       /* override theme's fixed width (critical) */
     max-width: 1360px;                            /* wider page */
     margin: 0 auto;                               /* keep centered */
     display: grid;                                /* switch to grid */
@@ -39,17 +39,15 @@
     grid-column: 1;
     float: none !important;          /* kill old float */
     width: auto !important;          /* let grid control width */
-    margin: 0;
+    margin: 0 !important;
     /* optional: keep it visible while scrolling */
     /* position: sticky; top: 1.25rem; align-self: start; */
-    padding-right: 0;       /* cancel theme's extra padding that can push into column 2 */
+    padding-right: 0 !important;     /* cancel theme's extra padding that can push into column 2 */
     box-sizing: border-box;
-    min-width: 0;           /* allow shrinking in grid */
+    min-width: 0;                    /* allow shrinking in grid */
   }
-  .wrapper > header h1,
-  .wrapper > header p,
-  .wrapper > header a,
-  .wrapper > header ul {
+  /* Make sure header text/links wrap inside the column */
+  .wrapper > header *, .container > header *, header * {
     max-width: 100%;
     overflow-wrap: anywhere;     /* break long text/links if needed*/
     word-break: break-word;
@@ -58,9 +56,9 @@
   /* RIGHT column (main content lives in <section>) */
   .wrapper > section {
     grid-column: 2;
-    margin: 0 !important;  /* remove the big default left margin */
-    max-width: none;      /* let it fill the grid track */
-    min-width: 0;         /* allow shrinking to avoid overflow */
+    margin: 0 !important;            /* remove the big default left margin */
+    max-width: none !important;      /* let it fill the grid track */
+    min-width: 0;                    /* allow shrinking to avoid overflow */
   }
 
   /* Footer spans both columns */
