@@ -29,12 +29,10 @@
 }
 @media (min-width: 900px) {
   .wrapper, .container {
-    width: 100%;
-    max-width: 1360px;
+    width: 100% !important;
+    max-width: 1360px;           /* make the whole page wider */
     margin: 0 auto;
-    display: grid;
-    grid-template-columns: 240px minmax(0, 1fr);
-    column-gap: 1.5rem;
+    box-sizing: border-box;
   }
   /* RIGHT column = section (content) */
   .wrapper > section, .container > section {
@@ -42,4 +40,5 @@
     width: calc(100% - 240px - 1.5rem) !important;  /* remaining space minus gap */
     margin: 0 0 0 1.5rem !important;                /* the gap between columns */
     max-width: none !important;
+  }
 }
