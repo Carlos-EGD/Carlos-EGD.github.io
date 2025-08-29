@@ -23,7 +23,18 @@
   font-weight: 600;
   border-bottom-color: currentColor; /* selected tab underline */
 }
-/* PAGE LAYOUT FOR DESKTOP */
+/* PAGE LAYOUT FOR MOBILE */
 @media (max-width: 640px) {
   .site-nav-tabs { overflow-x: auto; white-space: nowrap; }
+  
+@media (min-width: 900px) {
+  .wrapper, .container {
+    width: 100% !important;
+    max-width: 1360px;
+    margin: 0 auto;
+    display: grid !important;
+    grid-template-columns: 240px minmax(0, 1fr);
+    column-gap: 1.5rem;
+    align-items: start;
+  }
 }
