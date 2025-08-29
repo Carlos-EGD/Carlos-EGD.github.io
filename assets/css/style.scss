@@ -27,18 +27,3 @@
 @media (max-width: 640px) {
   .site-nav-tabs { overflow-x: auto; white-space: nowrap; }
 }
-@media (min-width: 900px) {
-  .wrapper, .container {
-    width: 100% !important;
-    max-width: 1360px;           /* make the whole page wider */
-    margin: 0 auto;
-    box-sizing: border-box;
-  }
-  /* RIGHT column = section (content) */
-  .wrapper > section, .container > section {
-    float: left !important;      /* sit to the right of header */
-    width: calc(100% - 240px - 1.5rem) !important;  /* remaining space minus gap */
-    margin: 0 0 0 1.5rem !important;                /* the gap between columns */
-    max-width: none !important;
-  }
-}
