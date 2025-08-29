@@ -64,8 +64,3 @@
   /* Footer spans both columns */
   .wrapper > footer, .container > footer, footer { grid-column: 1 / -1; }
 }
-
-  .wrapper > footer, .container > footer {
-    clear: both;
-  }
-}
