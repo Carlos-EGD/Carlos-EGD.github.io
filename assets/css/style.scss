@@ -24,7 +24,7 @@
 }
 /* PAGE LAYOUT FOR DESKTOP */
 @media (min-width: 900px) {
-  .wrapper {
+  .wrapper, .container {
     width: 100% !important;                       /* override theme's fixed width (critical) */
     max-width: 1360px;                            /* wider page */
     margin: 0 auto;                               /* keep centered */
@@ -35,32 +35,32 @@
   }
 
   /* LEFT column (the theme’s sidebar is actually <header>) */
-  .wrapper > header {
+  .wrapper > header, .container > header, body > .wrapper > header, body > .container > header, header {
     grid-column: 1;
     float: none !important;          /* kill old float */
     width: auto !important;          /* let grid control width */
     margin: 0 !important;
-    /* optional: keep it visible while scrolling */
-    /* position: sticky; top: 1.25rem; align-self: start; */
     padding-right: 0 !important;     /* cancel theme's extra padding that can push into column 2 */
     box-sizing: border-box;
     min-width: 0;                    /* allow shrinking in grid */
+    max-width: 100%;
   }
-  /* Make sure header text/links wrap inside the column */
-  .wrapper > header *, .container > header *, header * {
+  /* Ensure description + links wrap inside the left column */
+  header h1, header p, header a, header ul {
     max-width: 100%;
     overflow-wrap: anywhere;     /* break long text/links if needed*/
     word-break: break-word;
   }
 
   /* RIGHT column (main content lives in <section>) */
-  .wrapper > section {
+  .wrapper > section, .container > section, body > .wrapper > section, body > .container > section, section {
     grid-column: 2;
-    margin: 0 !important;            /* remove the big default left margin */
-    max-width: none !important;      /* let it fill the grid track */
-    min-width: 0;                    /* allow shrinking to avoid overflow */
+    float: none !important;
+    margin: 0 !important;             /* remove the big default left margin */
+    max-width: none !important;       /* let it fill the grid track */
+    min-width: 0 !important;          /* allow shrinking to avoid overflow */
   }
 
   /* Footer spans both columns */
-  .wrapper > footer { grid-column: 1 / -1; }
+  ..wrapper > footer, .container > footer, footer { grid-column: 1 / -1; }
 }
