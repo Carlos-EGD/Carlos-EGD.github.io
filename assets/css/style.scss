@@ -24,43 +24,20 @@
 }
 /* PAGE LAYOUT FOR DESKTOP */
 @media (min-width: 900px) {
-  .wrapper, .container {
-    width: 100% !important;                       /* override theme's fixed width (critical) */
-    max-width: 1360px;                            /* wider page */
-    margin: 0 auto;                               /* keep centered */
-    display: grid;                                /* switch to grid */
-    grid-template-columns: 220px minmax(0, 1fr);  /* LEFT sidebar header | RIGHT content */
-    column-gap: 1.5rem;                           /* space between columns */
-    align-items: start;
-  }
+  .wrapper, .container { width:100%; max-width:1360px; margin:0 auto; box-sizing:border-box; }
 
-  /* LEFT column (the theme’s sidebar is actually <header>) */
+  /* LEFT column (sidebar header) */
   .wrapper > header, .container > header {
-    grid-column: 1;
-    float: none !important;          /* kill old float */
-    width: auto !important;          /* let grid control width */
-    margin: 0 !important;
-    padding-right: 0 !important;     /* cancel theme's extra padding that can push into column 2 */
-    box-sizing: border-box;
-    min-width: 0;                    /* allow shrinking in grid */
-    max-width: 100%;
+    float:left !important; width:240px !important; padding-right:0 !important; box-sizing:border-box;
   }
-  /* Ensure description + links wrap inside the left column */
-  .wrapper > header *, .container > header * {
-    max-width: 100%;
-    overflow-wrap: anywhere;     /* break long text/links if needed*/
-    word-break: break-word;
-  }
+  .wrapper > header *, .container > header * { max-width:100%; overflow-wrap:anywhere; word-break:break-word; }
 
-  /* RIGHT column (main content lives in <section>) */
+  /* RIGHT column (content) */
   .wrapper > section, .container > section {
-    grid-column: 2;
-    float: none !important;
-    margin: 0 !important;             /* remove the big default left margin */
-    max-width: none !important;       /* let it fill the grid track */
-    min-width: 0 !important;          /* allow shrinking to avoid overflow */
+    float:left !important; width:calc(100% - 240px - 1.5rem) !important;
+    margin:0 0 0 1.5rem !important; max-width:none !important;
   }
 
-  /* Footer spans both columns */
-  .wrapper > footer, .container > footer, footer { grid-column: 1 / -1; }
+  .wrapper > footer, .container > footer { clear:both; }
 }
+
