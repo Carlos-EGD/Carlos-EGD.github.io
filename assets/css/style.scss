@@ -23,21 +23,8 @@
   border-bottom-color: currentColor; /* selected tab underline */
 }
 /* PAGE LAYOUT FOR DESKTOP */
-@media (min-width: 900px) {
-  .wrapper, .container { width:100%; max-width:1360px; margin:0 auto; box-sizing:border-box; }
-
-  /* LEFT column (sidebar header) */
-  .wrapper > header, .container > header {
-    float:left !important; width:240px !important; padding-right:0 !important; box-sizing:border-box;
-  }
-  .wrapper > header *, .container > header * { max-width:100%; overflow-wrap:anywhere; word-break:break-word; }
-
-  /* RIGHT column (content) */
-  .wrapper > section, .container > section {
-    float:left !important; width:calc(100% - 240px - 1.5rem) !important;
-    margin:0 0 0 1.5rem !important; max-width:none !important;
-  }
-
-  .wrapper > footer, .container > footer { clear:both; }
+@media (max-width: 640px) {
+  .site-nav-tabs { overflow-x: auto; white-space: nowrap; }
+}
 }
 
