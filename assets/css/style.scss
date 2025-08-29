@@ -31,6 +31,7 @@
     display: grid;                                /* switch to grid */
     grid-template-columns: 240px minmax(0, 1fr);  /* LEFT sidebar header | RIGHT content */
     column-gap: 2rem;                             /* space between columns */
+    align-items: start;
   }
 
   /* LEFT column (the theme’s sidebar is actually <header>) */
