@@ -2,6 +2,13 @@
 ---
 @import "{{ site.theme }}";  /* Keep the Minimal theme base styles */
 
+/* Hide the sidebar’s GitHub link “View My GitHub Profile” */
+.wrapper > header .view,
+.container > header .view,
+header .view {
+  display: none !important;
+}
+
 .site-nav-tabs {
   display: flex;
   gap: .25rem;
