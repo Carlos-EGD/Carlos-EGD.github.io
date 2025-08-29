@@ -36,4 +36,10 @@
     grid-template-columns: 240px minmax(0, 1fr);
     column-gap: 1.5rem;
   }
+  /* RIGHT column = section (content) */
+  .wrapper > section, .container > section {
+    float: left !important;      /* sit to the right of header */
+    width: calc(100% - 240px - 1.5rem) !important;  /* remaining space minus gap */
+    margin: 0 0 0 1.5rem !important;                /* the gap between columns */
+    max-width: none !important;
 }
