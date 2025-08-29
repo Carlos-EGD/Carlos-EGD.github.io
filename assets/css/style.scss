@@ -30,6 +30,27 @@
     grid-template-columns: 240px minmax(0, 1fr);  /* LEFT sidebar | RIGHT content */
     column-gap: 2rem;                             /* space between columns */
   }
-  .sidebar { float: none; width: auto; }          /* neutralize the theme’s float-based layout */
-  .main, .content, .post { margin: 0; max-width: none; }
+
+  /* LEFT column (the theme’s sidebar is actually <header>) */
+  .wrapper > header {
+    float: none;          /* kill old float */
+    width: auto;          /* let grid control width */
+    margin: 0;
+    grid-column: 1;
+    /* optional: keep it visible while scrolling */
+    /* position: sticky; top: 1.25rem; align-self: start; */
+  }
+
+  /* RIGHT column (main content lives in <section>) */
+  .wrapper > section {
+    margin: 0;            /* remove the big default left margin */
+    max-width: none;      /* let it fill the grid track */
+    min-width: 0;         /* allow shrinking to avoid overflow */
+    grid-column: 2;
+  }
+
+  /* Footer spans both columns */
+  .wrapper > footer {
+    grid-column: 1 / -1;
+  }
 }
