@@ -22,6 +22,7 @@ title: Carlos García
   **2018** — Academic Scholarship for Best Candidates
 
 **Massachusetts Institute of Technology, USA** | _Jun. – Jul. 2022_
+
 - Hands-on introduction to microfabrication technology at MIT.nano.
 - Micro- & Nanofabrication Techniques I & II  
    **Advisors:** Luis Velázquez-García, Ph.D. and Adriana Vargas, Ph.D. 
