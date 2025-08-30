@@ -20,4 +20,4 @@ permalink: /technical_skills/
 
 **Office** | Microsoft Office / Tableau / Power BI / Minitab
 
-<br>**Languages:** English (C1 - 101 _TOEFL_), German (B1), Spanish (Native)
+**Languages:** | English (C1 - 101 _TOEFL_) / German (B1) / Spanish (Native)
