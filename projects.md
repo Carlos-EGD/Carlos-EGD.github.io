@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### SAE International
 
-**Formula SAE Competition 2025 (Michigan, USA)** | _May 2024 – Dec. 2024_
+**Formula SAE Competition 2025** | _May 2024 – Dec. 2024_
 
 &nbsp;&nbsp;&nbsp;**Electrical Design Mentor**
 - Contributed to the electrical development of a high-performance single-seater Formula SAE electric vehicle.
@@ -14,14 +14,14 @@ permalink: /projects/
 
 ### Massachusetts Institute of Technology
 
-**MIT.nano Course (Cambridge, MA, USA)** | _Jul. 2021, Jun. 2022 & Jun. 2025_
+**MIT.nano Course (Cambridge, MA)** | _Jun. 2022 & Jun. 2025_
 
 &nbsp;&nbsp;&nbsp;**Course Certification**
 - One-week hands-on introduction to microfabrication technology using the diverse toolsets of MIT.nano.
 
 ### Tecnológico de Monterrey
 
-**EVSE Development Project (Monterrey, NL, Mexico)** | _Mar. 2022 – Jul. 2022_
+**EVSE Development Project (Monterrey, MX)** | _Mar. 2022 – Jul. 2022_
 
 &nbsp;&nbsp;&nbsp;**Research**
 - Assisted a research group developing an IEC Type 2 EVSE prototype.
@@ -31,14 +31,14 @@ permalink: /projects/
 
 **Impulso International Congress** | _Nov. 2020, Nov. 2021 & Mar. 2025_
 
-&nbsp;&nbsp;&nbsp;**Presenter (31<sup>st</sup>, 32<sup>nd</sup> & 35<sup>th</sup> editions)**
+&nbsp;&nbsp;&nbsp;**Presenter** (31<sup>st</sup>, 32<sup>nd</sup> & 35<sup>th</sup> editions)
 - Mechanical engineering international congress organized by engineering students of Latin America.
 - CAD workshop instructor and certification prep presenter for over 60 attendees.
 
 ### SAE Mexico
 
-**Baja SAE Mexico Competition 2019 (Toluca, Mexico)** | _Nov. 2019 – Mar. 2021_
+**Baja SAE Mexico 2019 (Toluca, MX)** | _Nov. 2019 – Mar. 2021_
 
-&nbsp;&nbsp;&nbsp;**Participant – 23<sup>rd</sup> place**
+&nbsp;&nbsp;&nbsp;**Participant** – 23<sup>rd</sup> place
 - Contributed to the design and build of a single-seat off-road Baja vehicle for intercollegiate competition.
 - Improved team placement by 10 positions year over year, achieving a top 25 finish.
