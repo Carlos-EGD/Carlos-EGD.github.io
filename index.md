@@ -11,7 +11,7 @@ title: Carlos García
 - M.Sc. in Artificial Intelligence — GPA: 99.67/100
 
 **Awards & Honors**
-- **2022** — Institutional 100% Scholarship for Academic Excellence
+- **2025** — Institutional 100% Scholarship for Academic Excellence
 
 ### **Tecnológico de Monterrey, Mexico (Monterrey, NL)** _Aug. 2018 – Dec. 2022_
 -  B.S. Mechanical and Electrical Engineering — GPA: 98.24/100
