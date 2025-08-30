@@ -1,6 +1,7 @@
 title: Carlos García
-# author: Carlos García
-# logo: 
+author: Carlos García
+logo: /assets/profile_img/mit_background.JPEG
+
 description: >-
   Mechanical & Electrical engineer focused on electrification, mechanical design, automotive power management, and AI integration.
   Strongly driven by innovation, attention to detail, and continuous improvement on a daily basis.
@@ -14,10 +15,5 @@ description: >-
     </a>
   </span>
   
-# show_downloads: false # adds a button that lets you download the repositoy 
+show_downloads: false # button that lets you download the repositoy 
 theme: jekyll-theme-minimal
-
-show_social: true
-
-linkedin_url: https://www.linkedin.com/in/ce-garcía
-email: cegarciadd@gmail.com
