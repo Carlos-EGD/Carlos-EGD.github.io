@@ -6,34 +6,18 @@ permalink: /technical_skills/
 
 **Languages:** English (C1), German (B1), Spanish (Native)
 
-**Programming** |
+**Programming —** | Python, SQL, MATLAB, Arduino & VBA
 
-Python, SQL, MATLAB, Arduino & VBA
+**CAD —** | SolidWorks, Catia, Siemens NX, CREO Parametric & Fusion
 
-**CAD** |
+**CFD —** | ANSYS, COMSOL & SolidWorks
 
-SolidWorks, Catia, Siemens NX, CREO Parametric & Fusion
+**FEA —** | SolidWorks, ANSYS & CREO Parametric
 
-**CFD** |
+**PLM —** | PTC Windchill & SAP PDM
 
-ANSYS, COMSOL & SolidWorks
+**Electronics —** | Altium Designer, Siemens CHS & LTspice
 
-**FEA** |
+**Manufacturing —** | Tool Handling, 3D Printing & CNC  
 
-SolidWorks, ANSYS & CREO Parametric
-
-- **PLM** |
-
-PTC Windchill & SAP PDM
-
-**Electronics** |
-
-Altium Designer, Siemens CHS & LTspice
-
-**Manufacturing** |
-
-Tool Handling, 3D Printing & CNC  
-
-**Office** |
-
-Microsoft Office, Tableau, Power BI & Minitab
+**Office —** | Microsoft Office, Tableau, Power BI & Minitab
