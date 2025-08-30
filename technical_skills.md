@@ -5,8 +5,8 @@ permalink: /technical_skills/
 ---
 
 **Languages:** English (C1 - 101 _TOEFL_), German (B1), Spanish (Native)
-
-<br>**Programming** | Python / SQL / MATLAB / Arduino / VBA
+<br><br>
+**Programming** | Python / SQL / MATLAB / Arduino / VBA
 
 **CAD** | SolidWorks / Catia / Siemens NX / CREO Parametric
 
