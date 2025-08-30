@@ -16,17 +16,22 @@ header .social .social-item .label { line-height: 1; }
 header .social img { display: block; width: 22px; height: 22px; }
 
 /* Sidebar logo size (only the logo in the left header) ----------------------- */
+:root { --logo-mobile: 128px; --logo-desktop: 176px; }
 .wrapper > header > img,
 .container > header > img {
-  width: 80px;   /* ← pick your size (e.g., 64, 80, 96) */
-  height: auto;  /* keep aspect ratio */
+  width: var(--logo-mobile);
+  height: auto;                  /* keep aspect ratio */
   display: block;
-  margin: .25rem 0 .5rem; /* optional spacing */
+  max-width: calc(100% - 8px)    /* never overflow a narrow sidebar */
+  margin: .25rem 0 .5rem;        /* optional spacing */
 }
 /* Making it a bit larger on desktop screens */
 @media (min-width: 900px) {
   .wrapper > header > img,
-  .container > header > img {width: 96px;}
+  .container > header > img {
+    width: var(--logo-desktop);
+    max-height: 120px;
+  }
 }
 
 /* Hide the sidebar’s GitHub link “View My GitHub Profile” -------------------- */
