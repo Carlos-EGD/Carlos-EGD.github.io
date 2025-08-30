@@ -20,3 +20,17 @@ I value learning above all and stay curious about everything I work on. I strive
 Currently I have been developing my latest skills as a Design Engineer for the most advanced agricultural electrification projects at John Deere.  
 I'm excited to see where the next project takes me.
 
+## Volunteering
+
+### FIRST Lego League
+
+**Regional Competition Judge** | _Jan. 2025_
+
+- Scored teams across FLL rubrics (Core Values, Innovation Project, Robot Design) and delivered improvement feedback.
+
+### SACBÉ
+
+**Group Mentor and Private Tutor** | _Jan. 2019 – Jun. 2021_
+
+- Mentored over 30 middle- and high-school students in a social-entrepreneurship program tackling academic attrition.
+- Tutored core subjects and guided college prep (study skills, exam prep, applications), helping students plan future pathways.
