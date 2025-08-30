@@ -23,7 +23,7 @@ I'm excited to see where the next project takes me!
 
 ## Volunteering
 
-### FIRST Lego League
+### FIRST LEGO League
 
 **Regional Competition Judge** | _Jan. 2025_
 
