@@ -24,7 +24,7 @@ permalink: /projects/
 **EVSE Development Project (Monterrey, MX)** | _Mar. 2022 – Jul. 2022_
 
 &nbsp;&nbsp;&nbsp;**Research**
-- Assisted a research group developing an IEC Type 2 EVSE prototype.
+- Assisted a research group in developing an IEC Type 2 EVSE prototype.
 - Prepared presentations and documentation on battery-pack architecture and battery management systems (BMS).
 
 ### Tecnológico de Monterrey
