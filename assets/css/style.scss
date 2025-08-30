@@ -38,9 +38,9 @@ header .social img { display: block; width: 22px; height: 22px; }
 header .social::after {
   content: "";
   display: block;
-  height: 1px;
-  background: #eaecef;   /* subtle grey line */
-  margin: .75rem 0;      /* space above/below the line */
+  height: 2px;
+  background: #eaecef;          /* subtle grey line */
+  margin: .75rem 0 .75rem;      /* space above/below the line */
 }
 
 /* Hide the sidebar’s GitHub link “View My GitHub Profile” -------------------- */
@@ -62,7 +62,7 @@ footer {border: 0; padding-top: 0;}
 /* Adding tabs and format ----------------------------------------------------- */
 .site-nav-tabs {
   display: flex;
-  gap: .25rem;
+  gap: .25rem;                /* gap between tabs */
   border-bottom: 1px solid #eaecef;
   margin-bottom: 1rem;
   flex-wrap: nowrap;          /* keep all tabs on one line */
