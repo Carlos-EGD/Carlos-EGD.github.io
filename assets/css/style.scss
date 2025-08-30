@@ -45,6 +45,18 @@ footer {
   border-bottom-color: currentColor; /* selected tab underline */
 }
 
+/* Inline “icon + label” pairs, one per line */
+header .social .social-item {
+  display: inline-flex;         /* icon + text on one line */
+  align-items: center;
+  gap: .4rem;                   /* space between icon and label */
+  margin-top: .35rem;           /* little space from previous line */
+  text-decoration: none;        /* cleaner look */
+  color: inherit;
+}
+header .social .social-item .label { line-height: 1; }
+header .social img { display: block; width: 22px; height: 22px; }
+
 /* Page layout for small screens */
 @media (max-width: 640px) {
   .site-nav-tabs { overflow-x: auto; white-space: nowrap; }
