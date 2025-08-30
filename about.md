@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-## _Try to learn something about everything and everything about something_ 
+## _Try to learn something about everything and everything about something._
+<div class="text-right">
 – Thomas Huxley
-
-**Thank you for taking the time to get to know me, here are a few more facts about me:**
+</div><br>
+  
+**Thank you for taking the time to get to know me, here are a few more facts about me...**
 
 I value learning above all and stay curious about everything I work on. I strive for mastery in every role I take on, aim for best-in-class results, and learn from failures. I'm passionate about applying cutting-edge technologies to motorsport, aerospace, and everyday life.
 
