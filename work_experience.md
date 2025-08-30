@@ -5,6 +5,7 @@ permalink: /work_experience/
 ---
 
 ### John Deere
+
 **Enterprise Technology & Engineering Center** | _Sep. 2022 – Present_
 
   **Position:** Electrical Design Engineer
