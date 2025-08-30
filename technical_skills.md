@@ -4,7 +4,7 @@ title: Technical Skills
 permalink: /technical_skills/
 ---
 
-**Languages:** English (C1 - 101 TOEFL), German (B1), Spanish (Native)
+**Languages:** English (C1 - 101 _TOEFL_), German (B1), Spanish (Native)
 
 <br>**Programming** | Python / SQL / MATLAB / Arduino / VBA
 
