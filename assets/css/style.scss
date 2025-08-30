@@ -16,7 +16,7 @@ header .social .social-item .label { line-height: 1; }
 header .social img { display: block; width: 22px; height: 22px; }
 
 /* Sidebar logo size (only the logo in the left header) ----------------------- */
-:root { --logo-mobile: 128px; --logo-desktop: 176px; }
+:root { --logo-mobile: 192px; --logo-desktop: 192px; }
 .wrapper > header > img,
 .container > header > img {
   width: var(--logo-mobile);
