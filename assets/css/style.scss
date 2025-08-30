@@ -22,7 +22,7 @@ header .social img { display: block; width: 22px; height: 22px; }
   width: var(--logo-mobile);
   height: auto;                  /* keep aspect ratio */
   display: block;
-  max-width: calc(100% - 8px)    /* never overflow a narrow sidebar */
+  max-width: calc(100% - 8px);   /* never overflow a narrow sidebar */
   margin: .25rem 0 .5rem;        /* optional spacing */
 }
 /* Making it a bit larger on desktop screens */
@@ -30,7 +30,7 @@ header .social img { display: block; width: 22px; height: 22px; }
   .wrapper > header > img,
   .container > header > img {
     width: var(--logo-desktop);
-    max-height: 120px;
+    /*max-height: 120px;*/           /* optional cap for tall logos */
   }
 }
 
