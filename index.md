@@ -3,13 +3,13 @@ layout: page
 title: Carlos García
 ---
 
-# Mechanical and Electrical Engineer
+## Mechanical and Electrical Engineer
 
 **Tecnológico de Monterrey, Mexico** | _Apr. 2025 – Present_
 
 - M.Sc. in Artificial Intelligence — **GPA:** 99.67/100
   
-  **2025** — Institutional 100% Scholarship for Academic Excellence
+  **2025** — Full-Tuition Academic Excellence Scholarship - sole recipient
 
 **Tecnológico de Monterrey, Mexico** | _Aug. 2018 – Dec. 2022_
 
