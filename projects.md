@@ -10,7 +10,7 @@ permalink: /projects/
 
 &nbsp;&nbsp;&nbsp;**Electrical Design Mentor**
 - Contributed to the electrical development of a high-performance single-seater Formula SAE electric vehicle.
-- Mentored the team in the use of CAD and electrical software to meet specifications of FSAE rules (2024).
+- Mentored the team in the use of CAD and electrical software to meet the specifications of the 2024 FSAE rules.
 
 ### Massachusetts Institute of Technology
 
