@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## _Try to learn something about everything and everything about something._
-<div class="text-right">
+<div style="text-align:right">
 – Thomas Huxley
 </div><br>
   
