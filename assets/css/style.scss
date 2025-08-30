@@ -45,6 +45,29 @@ footer {
   border-bottom-color: currentColor; /* selected tab underline */
 }
 
+/* Sidebar social icons */
+header .social-links {
+  margin-top: .5rem;
+  display: flex;
+  gap: .5rem;
+}
+header .social-links .social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px; height: 28px;
+  border-radius: 9999px;
+  text-decoration: none;
+  color: inherit;                 /* match sidebar text color */
+}
+header .social-links .social-link:hover {
+  opacity: .8;
+}
+header .social-links svg {
+  width: 18px; height: 18px;
+  display: block;
+}
+
 /* Page layout for small screens */
 @media (max-width: 640px) {
   .site-nav-tabs { overflow-x: auto; white-space: nowrap; }
