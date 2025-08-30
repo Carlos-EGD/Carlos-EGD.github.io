@@ -10,7 +10,7 @@ permalink: /work_experience/
 
 &nbsp;&nbsp;&nbsp;**Position:** Electrical Design Engineer
 - Created harness schematics, models, and drawings for the manufacturing of new electric and combustion tractors. 
-- Conducted circuit analyses and simulations to validate safety features comply with industry standards. 
+- Conducted circuit analyses and simulations to validate that safety features comply with industry standards. 
 - Executed mechanical bracket designs to securely retain electrical components and optimize space.
 - Contributed to over $110K in cost savings through supplier renegotiations and design improvements.
 - Supported the back-end development of internal applications, enhancing overall efficiency using Python and VBA.
