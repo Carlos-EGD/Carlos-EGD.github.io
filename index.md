@@ -9,7 +9,7 @@ title: Carlos García
 
 - M.Sc. in Artificial Intelligence — **GPA:** 99.67/100
   
-  **2025** — Full-Tuition Academic Excellence Scholarship - sole recipient
+  **2025** — Full-Tuition Academic Excellence Scholarship (sole recipient)
 
 **Tecnológico de Monterrey, Mexico** | _Aug. 2018 – Dec. 2022_
 
