@@ -25,5 +25,5 @@ title: Carlos García
 
 - Hands-on introduction to microfabrication technology at MIT.nano.
 - Micro- & Nanofabrication Techniques I & II  
-   **Advisors:** Luis Velázquez-García, Ph.D. and Adriana Vargas, Ph.D. 
+**Advisors:** Luis Velázquez-García, Ph.D. and Adriana Vargas, Ph.D. 
 
