@@ -11,24 +11,26 @@ permalink: /work_experience/
   **Position:** Electrical Design Engineer
 - Created harness schematics, models, and drawings for the manufacturing of new electric and combustion tractors. 
 - Conducted circuit analyses and simulations to validate safety features comply with industry standards. 
-- Executed mechanical bracket designs to securely retain electrical components and optimize space. 
+- Executed mechanical bracket designs to securely retain electrical components and optimize space.
+- Helped deliver over $110K in cost savings though supplier renegotiations and design improvements.
 - Supported the back-end development of internal applications, enhancing overall efficiency using Python and VBA.
 
   **2025** — Top Performer (1<sup>st</sup> place) Award, FY2025 (Q3)
   **2024** — Most Valuable Engineer Award, FY2024 (Q1)
 
-**Tecnológico de Monterrey, Mexico** | _Aug. 2018 – Dec. 2022_
+### Diram
 
-- B.S. Mechanical and Electrical Engineering, **GPA:** 98.24/100  
-- Highest GPA in the 124th M&E class
+**Design and Specification Center** | _Sep. 2021 – Mar. 2022_
 
-  **2022** — Honorable Mention of Excellence  
-  **2020** — Outstanding Engineering Student Award  
-  **2019** — Golden Gear Award for best scoring Alumni  
-  **2018** — Academic Scholarship for Best Candidates
+  **Position:** Power Quality Solutions Intern
+- Conducted power quality analyses to ensure compliance with national regulations and industry standards.
+- Designed power quality solutions using power banks and harmonic filters according to customer needs.
+- Applied Excel VBA macros to generate client proposal reports from templates and data.
 
-**Massachusetts Institute of Technology, USA** | _Jun. – Jul. 2022_
+### Tecnológico de Monterrey 
 
-- Hands-on introduction to microfabrication technology at MIT.nano.
-- Micro- & Nanofabrication Techniques I & II  
-**Advisors:** Luis Velázquez-García, Ph.D. and Adriana Vargas, Ph.D. 
+**Engineering and Computerized Design Dept.** | _Feb. 2020 – Jul. 2020_
+
+  **Position:** Power Quality Solutions Intern
+- Supported classroom and laboratory instruction by assisting engineering students in effectively using CAD software.
+- Provided guidance to engineering students, enhancing their models and manufacturing drawing deliverables.
