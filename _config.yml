@@ -6,13 +6,16 @@ description: >-
   <br>
   <span class="social">
     <a class="social-item" href="https://www.linkedin.com/in/ce-garcía/" aria-label="LinkedIn" target="_blank" rel="noopener">
-      <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="22" height="22"><span class="label">/ce-garcía</span>
+      <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="22" height="22">
+      <span class="label">/ce-garcía</span>
     </a><br>
     <a class="social-item" href="mailto:cegarciadd@gmail.com" aria-label="Email">
-      <img src="/assets/icons/email.svg" alt="Email" width="22" height="22"><span class="label">cegarciadd@gmail.com</span>
+      <img src="/assets/icons/email.svg" alt="Email" width="22" height="22">
+      <span class="label">cegarciadd@gmail.com</span>
     </a><br>
     <a class="social-item" href="/assets/cv/CV_CEGD.pdf" download>
-      <img src="/assets/icons/pdf.svg" alt="" width="22" height="22"><span class="label"><strong>Download CV</span>
+      <img src="/assets/icons/pdf.svg" alt="" width="22" height="22">
+      <span class="label"><strong>Download CV<strong></span>
   </span>
   <br><br>
   Mechanical & Electrical engineer focused on electrification, mechanical design, automotive power management, and AI integration.
