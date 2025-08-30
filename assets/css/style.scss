@@ -3,18 +3,6 @@
 /* Keep the Minimal theme base styles ----------------------------------------- */
 @import "{{ site.theme }}";
 
-/* Inline “icon + label” pairs, one per line ---------------------------------- */
-header .social .social-item {
-  display: inline-flex;         /* icon + text on one line */
-  align-items: center;
-  gap: .4rem;                   /* space between icon and label */
-  margin-top: .35rem;           /* little space from previous line */
-  text-decoration: none;        /* cleaner look */
-  color: inherit;
-}
-header .social .social-item .label { line-height: 1; }
-header .social img { display: block; width: 22px; height: 22px; }
-
 /* Sidebar logo size (only the logo in the left header) ----------------------- */
 :root { --logo-mobile: 192px; --logo-desktop: 192px; }
 .wrapper > header > img,
@@ -32,6 +20,27 @@ header .social img { display: block; width: 22px; height: 22px; }
     width: var(--logo-desktop);
     /*max-height: 120px;*/           /* optional cap for tall logos */
   }
+}
+
+/* Inline “icon + label” pairs, one per line ---------------------------------- */
+header .social .social-item {
+  display: inline-flex;         /* icon + text on one line */
+  align-items: center;
+  gap: .4rem;                   /* space between icon and label */
+  margin-top: .35rem;           /* little space from previous line */
+  text-decoration: none;        /* cleaner look */
+  color: inherit;
+}
+header .social .social-item .label { line-height: 1; }
+header .social img { display: block; width: 22px; height: 22px; }
+
+/* Light divider under the social/CV block ------------------------------------ */
+header .social::after {
+  content: "";
+  display: block;
+  height: 1px;
+  background: #eaecef;   /* subtle grey line */
+  margin: .75rem 0;      /* space above/below the line */
 }
 
 /* Hide the sidebar’s GitHub link “View My GitHub Profile” -------------------- */
