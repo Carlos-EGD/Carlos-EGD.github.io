@@ -14,7 +14,7 @@ permalink: /projects/
 
 ### Massachusetts Institute of Technology
 
-**MIT.nano Course (Cambridge, MA)** | _Jun. 2022 & Jun. 2025_
+**MIT.nano Course (Cambridge, MA, USA)** | _Jun. 2022 & Jun. 2025_
 
 &nbsp;&nbsp;&nbsp;**Course Certification**
 - One-week hands-on introduction to microfabrication technology using the diverse toolsets of MIT.nano.
