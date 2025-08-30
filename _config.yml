@@ -2,14 +2,13 @@ title: Carlos García
 # author: Carlos García
 # logo: 
 description: >-
-  Bookmark this to keep an eye on my project updates!<br>
+  Bookmark this to keep an eye on my project updates!<br><br>
   <span class="social">
-    <a href="https://www.linkedin.com/in/ce-garcía/" aria-label="LinkedIn" target="_blank" rel="noopener">
-      <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="22" height="22">
-    </a>
-    &nbsp;
-    <a href="mailto:cegarciadd@gmail.com" aria-label="Email">
-      <img src="/assets/icons/email.svg" alt="Email" width="22" height="22">
+    <a class="social-item" href="https://www.linkedin.com/in/ce-garcía/" aria-label="LinkedIn" target="_blank" rel="noopener">
+      <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="22" height="22"><span class="label">LinkedIn</span>
+    </a><br>
+    <a class="social-item" href="mailto:cegarciadd@gmail.com" aria-label="Email">
+      <img src="/assets/icons/email.svg" alt="Email" width="22" height="22"><span class="label">cegarciadd@gmail.com</span>
     </a>
   </span>
   
