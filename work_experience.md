@@ -12,7 +12,10 @@ permalink: /work_experience/
 - Created harness schematics, models, and drawings for the manufacturing of new electric and combustion tractors. 
 - Conducted circuit analyses and simulations to validate safety features comply with industry standards. 
 - Executed mechanical bracket designs to securely retain electrical components and optimize space. 
-- Supported the back-end development of internal applications, enhancing overall efficiency using Python and VBA. 
+- Supported the back-end development of internal applications, enhancing overall efficiency using Python and VBA.
+
+  **2025** — Top Performer (1<sup>st</sup> place) Award, FY2025 Q3  
+  **2024** — Most Valuable Engineer Award, FY2024 Q1
 
 **Tecnológico de Monterrey, Mexico** | _Aug. 2018 – Dec. 2022_
 
