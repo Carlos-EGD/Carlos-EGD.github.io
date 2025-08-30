@@ -3,9 +3,7 @@ author: Carlos García
 logo: /assets/profile_img/mit_background_edit1.svg
 
 description: >-
-  Mechanical & Electrical engineer focused on electrification, mechanical design, automotive power management, and AI integration.
-  Strongly driven by innovation, attention to detail, and continuous improvement on a daily basis.
-  <br><br>
+  <br>
   <span class="social">
     <a class="social-item" href="https://www.linkedin.com/in/ce-garcía/" aria-label="LinkedIn" target="_blank" rel="noopener">
       <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="22" height="22"><span class="label">/ce-garcía</span>
@@ -14,6 +12,9 @@ description: >-
       <img src="/assets/icons/email.svg" alt="Email" width="22" height="22"><span class="label">cegarciadd@gmail.com</span>
     </a>
   </span>
+  <br><br>
+  Mechanical & Electrical engineer focused on electrification, mechanical design, automotive power management, and AI integration.
+  Strongly driven by innovation, attention to detail, and continuous improvement on a daily basis.
   
 show_downloads: false # button that lets you download the repositoy 
 theme: jekyll-theme-minimal
