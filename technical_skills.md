@@ -8,16 +8,16 @@ permalink: /technical_skills/
 
 **Programming** | Python / SQL / MATLAB / Arduino / VBA
 
-**CAD** | SolidWorks / Catia / Siemens NX / CREO Parametric / Fusion 360
+**CAD** | SolidWorks / Catia / Siemens NX / CREO Parametric
 
-**CFD** | ANSYS, COMSOL & SolidWorks
+**CFD** | ANSYS / COMSOL / SolidWorks
 
-**FEA** | SolidWorks, ANSYS & CREO Parametric
+**FEA** | SolidWorks / ANSYS / CREO Parametric
 
-**PLM** | PTC Windchill & SAP PDM
+**PLM** | PTC Windchill / SAP PDM
 
-**Electronics** | Altium Designer, Siemens CHS & LTspice
+**Electronics** | Altium Designer / Siemens CHS / LTspice
 
-**Manufacturing** | Tool Handling, 3D Printing & CNC  
+**Manufacturing** | Tool Handling / 3D Printing / CNC  
 
-**Office** | Microsoft Office, Tableau, Power BI & Minitab
+**Office** | Microsoft Office / Tableau / Power BI / Minitab
