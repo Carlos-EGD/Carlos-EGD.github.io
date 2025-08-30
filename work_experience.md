@@ -4,7 +4,7 @@ title: Work Experience
 permalink: /work_experience/
 ---
 
-**John Deere** 
+**John Deere**  
 **Enterprise Technology & Engineering Center** | _Sep. 2022 – Present_
 
   **Position:** Electrical Design Engineer
