@@ -18,7 +18,7 @@ title: Carlos García
 
   **2022** — Honorable Mention of Excellence  
   **2020** — Outstanding Engineering Student Award  
-  **2019** — Golden Gear Award for best scoring Alumni  
+  **2019** — Golden Gear Award for highest-scoring alumni  
   **2018** — Academic Scholarship for Best Candidates
 
 **Massachusetts Institute of Technology, USA** | _Jun. – Jul. 2022_
