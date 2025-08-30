@@ -15,7 +15,7 @@ permalink: /work_experience/
 - Helped deliver over $110K in cost savings though supplier renegotiations and design improvements.
 - Supported the back-end development of internal applications, enhancing overall efficiency using Python and VBA.
 
-  **2025** — Top Performer (1<sup>st</sup> place) Award, FY2025 (Q3)
+  **2025** — Top Performer (1<sup>st</sup> place) Award, FY2025 (Q3)  
   **2024** — Most Valuable Engineer Award, FY2024 (Q1)
 
 ### Diram
