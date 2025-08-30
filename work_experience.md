@@ -8,7 +8,7 @@ permalink: /work_experience/
 
 **Enterprise Technology & Engineering Center** | _Sep. 2022 – Present_
 
-  **Position:** Electrical Design Engineer
+&nbsp;&nbsp;**Position:** Electrical Design Engineer
 - Created harness schematics, models, and drawings for the manufacturing of new electric and combustion tractors. 
 - Conducted circuit analyses and simulations to validate safety features comply with industry standards. 
 - Executed mechanical bracket designs to securely retain electrical components and optimize space.
@@ -22,7 +22,7 @@ permalink: /work_experience/
 
 **Design and Specification Center** | _Sep. 2021 – Mar. 2022_
 
-  **Position:** Power Quality Solutions Intern
+&nbsp;&nbsp;**Position:** Power Quality Solutions Intern
 - Conducted power quality analyses to ensure compliance with national regulations and industry standards.
 - Designed power quality solutions using power banks and harmonic filters according to customer needs.
 - Applied Excel VBA macros to generate client proposal reports from templates and data.
@@ -31,6 +31,6 @@ permalink: /work_experience/
 
 **Engineering and Computerized Design Dept.** | _Feb. 2020 – Jul. 2020_
 
-  **Position:** Power Quality Solutions Intern
+&nbsp;&nbsp;**Position:** Power Quality Solutions Intern
 - Supported classroom and laboratory instruction by assisting engineering students in effectively using CAD software.
 - Provided guidance to engineering students, enhancing their models and manufacturing drawing deliverables.
