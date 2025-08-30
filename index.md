@@ -7,14 +7,14 @@ title: Carlos García
 
 **Tecnológico de Monterrey, Mexico** | _Apr. 2025 – Present_
 
-M.Sc. in Artificial Intelligence, **GPA:** 99.67/100
+- M.Sc. in Artificial Intelligence, **GPA:** 99.67/100
   
   **2025** — Institutional 100% Scholarship for Academic Excellence
 
 **Tecnológico de Monterrey, Mexico** | _Aug. 2018 – Dec. 2022_
 
-B.S. Mechanical and Electrical Engineering, **GPA:** 98.24/100  
-Highest GPA in the 124th M&E class
+- B.S. Mechanical and Electrical Engineering, **GPA:** 98.24/100  
+- Highest GPA in the 124th M&E class
 
   **2022** — Honorable Mention of Excellence  
   **2020** — Outstanding Engineering Student Award  
