@@ -4,7 +4,6 @@ title: Technical Skills
 permalink: /technical_skills/
 ---
 <br>
-**Languages:** English (C1 - 101 _TOEFL_), German (B1), Spanish (Native)<br><br>
 
 **Programming** | Python / SQL / MATLAB / Arduino / VBA
 
@@ -21,3 +20,5 @@ permalink: /technical_skills/
 **Manufacturing** | Tool Handling / 3D Printing / CNC  
 
 **Office** | Microsoft Office / Tableau / Power BI / Minitab
+<br><br>
+**Languages:** English (C1 - 101 _TOEFL_), German (B1), Spanish (Native)
