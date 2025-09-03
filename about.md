@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-## _Try to learn something about everything and everything about something._
 <div style="text-align:right">
+  
+## _Try to learn something about everything and everything about something._
+
 – Thomas Huxley
 </div><br>
 **Thank you for taking the time to get to know me, here are a few more facts about me...**
