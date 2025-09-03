@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="text-align:right">
-
+<div style="text-align:right" markdown="1">
 
 ## _Try to learn something about everything and everything about something._
 
