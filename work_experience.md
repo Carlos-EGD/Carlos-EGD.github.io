@@ -31,6 +31,6 @@ permalink: /work_experience/
 
 **Engineering and Computerized Design Dept.** | _Feb. 2020 – Jul. 2020_
 
-&nbsp;&nbsp;&nbsp;**Position:** Power Quality Solutions Intern
+&nbsp;&nbsp;&nbsp;**Position:** Teaching Assistant
 - Supported classroom and laboratory instruction by assisting engineering students in effectively using CAD software.
 - Provided guidance to engineering students, enhancing their models and manufacturing drawing deliverables.
