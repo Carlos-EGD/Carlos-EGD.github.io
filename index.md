@@ -14,7 +14,7 @@ title: Carlos García
 **Tecnológico de Monterrey, Mexico** | _Aug. 2018 – Dec. 2022_
 
 - B.S. Mechanical and Electrical Engineering — **GPA:** 98.24/100  
-- Highest GPA of the 124th M&E class
+- Highest GPA of the 124th Mechanical and Electrical Engineering class
 
   **2022** — Honorable Mention of Excellence  
   **2020** — Outstanding Engineering Student Award  
